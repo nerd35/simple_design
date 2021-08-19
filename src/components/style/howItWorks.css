@@ -1,0 +1,39 @@
+.how-it-works h2{
+    font-family: "Heebo", sans-serif;
+    font-size: 36px;
+    color: #222222;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.how-it-works p {
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    line-height: 24px;
+    color: #777777;
+    margin-bottom: 0px;
+    max-width: 570px;
+    margin: auto;
+}
+.how-it-works .how-it-works-div:hover{
+
+    box-shadow: 0px 5px 20px 0px rgb(69 67 96 / 10%);
+}
+
+.how-it-works .how-it-works-div h2{
+    color: #374a5e;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: capitalize !important;
+}
+
+.how-it-works .how-it-works-div p{
+    color: #7c7c7c;
+    padding-right: 15px;
+}
+
+

@@ -1,0 +1,22 @@
+.feedback-container{
+    background: #3bacf0;
+    color: #fff;
+}
+
+.dashbord-light-btn{
+    display: inline-block;
+    background: white;
+    color: #222222;
+    font-family: "Roboto", sans-serif;
+    width: 134px;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    line-height: 48px;
+    border-radius: 3px;
+    outline: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+    text-decoration: none;
+}

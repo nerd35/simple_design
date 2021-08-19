@@ -1,0 +1,26 @@
+.footer-container{
+    background: #000410;
+}
+
+.footer-title{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Heebo", sans-serif;
+    margin-bottom: 0px;
+}
+
+.footer-text{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+    margin-bottom: 30px;
+}
+.quick-links{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+    margin-bottom: 30px;
+}
