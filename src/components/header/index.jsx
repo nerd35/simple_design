@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom'
 import HeaderImg from '../../assets/headerimg.jpg'
 
 const Header = () => {
@@ -14,8 +15,8 @@ const Header = () => {
               enim ad minim. sed do eiusmod tempor incididunt.
             </p>
             <div className="">
-                <span className="btn-trans me-3"> Get Started</span>
-                <span className="btn-white "> Dashboard</span>
+                <Link style={{textDecoration: 'none'}} to="/dashboard" className="btn-trans me-3"> Get Started</Link>
+                <Link style={{textDecoration: 'none'}} to="/dashboard" className="btn-white "> Dashboard</Link>
             </div>
           </div>
           <div className="col-md-6 d-none d-md-block">

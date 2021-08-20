@@ -2,7 +2,7 @@ import DesignImg from "../../assets/lernsection.png";
 
 const DesignSec = () => {
   return (
-    <div clasName="py-5 container text-center ">
+    <div clasName="py-5 px-3 container text-center ">
       <h1 className="mt-5 text-center design-title">
         UNIQUE SCREENS THAT WORK PERFECTLY
       </h1>

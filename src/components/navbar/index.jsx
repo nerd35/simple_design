@@ -27,7 +27,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/">
-                Link
+                About
               </Link>
             </li>
             <li className="nav-item dropdown">
@@ -63,20 +63,20 @@ const Navbar = () => {
               </ul>
             </li>
             <li className="nav-item">
-              <Link
-                className="nav-link disabled"
-                to="/"
-                tabindex="-1"
-                aria-disabled="true"
-              >
-                Disabled
+              <Link className="nav-link" to="/">
+                Contact
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/">
+                FAQ
               </Link>
             </li>
           </ul>
           <ul className="mb-2 navbar-nav ms-auto mb-lg-0">
             <li className="nav-item">
-              <Link className="nav-link active" aria-current="page" to="/">
-                Home
+              <Link className=" dashboard-btn" to="/dashboard">
+                DashBoard
               </Link>
             </li>
           </ul>

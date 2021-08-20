@@ -7,3 +7,5 @@ export { default as MoreFeatures} from './moreFeatures'
 export { default as FeedBack} from './feedBack'
 export { default as LightFeatures} from './lightFeatures'
 export { default as Footer} from './footer'
+
+export { default as SideBar} from './SideBar'
